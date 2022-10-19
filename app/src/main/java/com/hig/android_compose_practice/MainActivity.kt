@@ -41,7 +41,6 @@ fun RowAndColumn() {
 
 @Composable
 fun FirstRow() {
-
     Row(modifier = Modifier
         .fillMaxWidth()
         .wrapContentHeight(Alignment.Top)
